@@ -11,9 +11,6 @@ import { MODAL_CLOSE_SEC } from './config.js'
 import 'core-js/stable' // polyfilling
 import 'regenerator-runtime/runtime' // polyfilling async/await
 
-// if (module.hot) {
-//   module.hot.accept()
-// }
 
 async function controlRecipes() {
 
